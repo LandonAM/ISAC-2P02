@@ -3,4 +3,4 @@
 
 ## Blog Post
 
-[continue reading](blog)
+[continue reading](Blog)
