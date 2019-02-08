@@ -4,4 +4,4 @@
   
   [Click Here](Blog)
 
-![](ISAC-2P02/images/Portia.jpg)
+![](https://github.com/LandonAM/ISAC-2P02/blob/master/images/Portia.jpg)
