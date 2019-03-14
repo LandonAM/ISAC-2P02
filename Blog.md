@@ -33,3 +33,5 @@ Moretti is so concerned with making sure his information is reliable by providin
 ## Closing Thoughts.
 
 I want to pose a statement in the form of an observation. The humanities encompases many different studies, one being philosophy, and our digital humanities, absolutely brings its own breed of philosophical thought. We cannot base philosophy on science, and if we are to consider the digital humanities to have philosophy under its umbrella, we should also believe that other fields within the digital humanities need to be met with the same values and schools of thought, of the philosophical or interpretive mind, which derives itself from the value of assumption.
+
+### Thank you for reading.
