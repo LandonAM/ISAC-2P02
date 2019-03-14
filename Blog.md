@@ -6,5 +6,5 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 720px; height: 720px;' src='//voyant-tools.org/tool/Bubbles/?view=Trends&docIndex=2&speed=60&corpus=21d23fee4ac7ad02ebfbdcbcba3ce54f'></iframe>
+<iframe style='width: 600px; height: 600px;' src='//voyant-tools.org/tool/Bubbles/?view=Trends&docIndex=2&speed=60&corpus=21d23fee4ac7ad02ebfbdcbcba3ce54f'></iframe>
 
