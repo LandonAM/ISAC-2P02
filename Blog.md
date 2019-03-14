@@ -10,7 +10,7 @@ Studying digital humanities implies we are meant to be forward thinking and not 
 
 ## Digital Humanities Debates: Why Interpitive Data
 
-“Most digital humanists do not employ the qualitative methods of data gathering to which Borgman refers, such as survey research, observations, and interviews”, and this needs to change. Interpretation of information is one of the most valuable kinds of information we can gather as it is. Every article, every blog post, or academic paper is an interpretation of data sets more or less. A bigger question than should we change how we interpret and gather information as digital humanists is why we should change in the first place. It is believed in most academia, that any kind of information not founded in raw numbers and data sets, is not reliable information. Try as we might, we cannot collect all significant data via raw data sets, nor should we rely solely on externally gathered data sets as the only information we can work within. The study of the humanities is one based in assumptions. Assumptions are our reliable data.
+“Most digital humanists do not employ the qualitative methods of data gathering to which Borgman refers, such as survey research, observations, and interviews” (, and this needs to change. Interpretation of information is one of the most valuable kinds of information we can gather as it is. Every article, every blog post, or academic paper is an interpretation of data sets more or less. A bigger question than should we change how we interpret and gather information as digital humanists is why we should change in the first place. It is believed in most academia, that any kind of information not founded in raw numbers and data sets, is not reliable information. Try as we might, we cannot collect all significant data via raw data sets, nor should we rely solely on externally gathered data sets as the only information we can work within. The study of the humanities is one based in assumptions. Assumptions are our reliable data.
 
 ## Moretti, Ramsay, and Drucker
 
@@ -35,3 +35,13 @@ Moretti is so concerned with making sure his information is reliable by providin
 I want to pose a statement in the form of an observation. The humanities encompases many different studies, one being philosophy, and our digital humanities, absolutely brings its own breed of philosophical thought. We cannot base philosophy on science, and if we are to consider the digital humanities to have philosophy under its umbrella, we should also believe that other fields within the digital humanities need to be met with the same values and schools of thought, of the philosophical or interpretive mind, which derives itself from the value of assumption.
 
 ### Thank you for reading.
+
+## Bibliography:
+
+Tanya E. Clement (2016). Where Is Methodology in Digital Humanities? Debates in the Digital Humanities,   http://dhdebates.gc.cuny.edu/debates/text/65
+
+Drucker, J. (2015). Graphical Approaches to the Digital Humanities. A New Companion to Digital Humanities, 238-250.http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
+
+Ramsay, S. (2011). Reading Machines. 1-17. http://sites.uci.edu/digitalhumanitiesreadinggroup/files/2016/02/stephen-ramsay-reading-machines-toward-an-algorithmic-criticism.pdf
+
+Moretti, F. Graphs, Maps, trees. 67-91. https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf
