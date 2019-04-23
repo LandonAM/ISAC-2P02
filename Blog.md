@@ -1,4 +1,4 @@
-# Blog Post
+# Acedemic Blog
 
 # Humanities as Interpretive Data
 
