@@ -6,6 +6,8 @@ My name is Landon McPhee, and I am an Interactive Arts and Science Major at Broc
 
 ![Academic Blog Photo](/images/SIS-Dilemma-TTG-TopOfMind-750x350-e14951336804161.png)
 
+Throughout my academic blog post, I go through the reasons for using interpretive data sets as a form of not only pushing the field of digital humanities forward but also bringing digital humanities closer to it’s more traditional humanities roots. The digital humanities in its current state is filled with external data sets and research, which really does it no favours, as the entire field is based around people and the understand of qualitative data. To this end data sets, and research done to gather qualitative data is the most valuable form of research in our field, and should be held to that regard. My reason for looking into this topic, was my personal connection with data and information. On my own I find that the value of qualitative data, is not seen in the regard that it should, real answers with insight are some of the most valuable data we can gather, and whilst it might not always be the easiest data to put into use, it can make the most valuable changes to any given form of media.My research into this topic was doing close readings of Drucker, Ramsay, and Moretti, as well as looking to a few outside sources on the topic such as the article from Tanya. E. Through these articles I found commonality amongst terms and topics discussed such as the value of qualitative data and informal data sets. To this end I looked for these portions of these articles and used the information as background for my thesis.
+
 
   [Click Here](Blog)
 
