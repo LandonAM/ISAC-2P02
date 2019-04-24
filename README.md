@@ -1,6 +1,6 @@
 # IASC 2P02 | Landon McPhee
 
-![Homepage Photo](https://github.com/LandonAM/ISAC-2P02/blob/master/images/Homepage%20Image.jpg)
+![Homepage Photo](/images/Homepage Image.jpg)
 
 # Bio:
 
