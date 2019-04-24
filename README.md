@@ -1,3 +1,7 @@
+# IASC 2P02 | Landon McPhee
+
+
+
 # Bio:
 
 My name is Landon McPhee, and I am an Interactive Arts and Science Major at Brock University finishing my second year of study. Within the digital humanities I wish to study the reason for virtual interaction amongst people, through data visualization. Interpretive data sets, wherein we view digital user data through online social platforms, we can then interpret reason, cause, and how to replicate certain kinds of interactions. This kind of research can help shape the digital landscape towards good online interaction, that develops online communities in a healthy capacity. Throughout my academic blog, I highlight the different reasons people would wish to use interpretive data sets, and through my revisions to that Blog, you may see how I have directed it’s information to point towards its uses in the digital humanities in studying people, and their interaction, both with digital platforms, and people through digital platforms. People can not be defined simply by traditional linear data sets, and instead act in irregular patterns that change as people change, therefor a gap where interpretive data sets can assume a person's pattern before it happens based on past collected data and research on patterns. I hope that this research will help sculptors of the digital landscape and online interaction, shape it to be preferable for all people.
@@ -20,5 +24,8 @@ For my collaborative project, we took a look at the [Archives Unleashed Cloud](h
 
 Throughout the project we were separated by distance considering we could not all meet up at Brock at the same time often, to this end we created a server on a service called discord where we could collaborate freely on the project. Using the system out instructor put in place, where before the due date of the assignment, we not only had to close issues for ourselves submitting our work, but once all members had closed their issues, we also had to do a final close on the group’s issue. This made it simple to track members progress, and see how much work still needed to be done at different stages. Working with others was a great way to see the thoughts others crafted while they researched the tool, and the different ideas that came to rise from the discussion geared our presentation towards a different path that it would have otherwise. We did most of our work in large chucks, submitting it all in one, then making minor changes as we needed to. This ensured work got done, and that by the end, we did in fact have the project done for our final due date. Once I had uploaded all my assets for the presentation, I closed the issue [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/issues/14) Once we finished the assignment I closed out group’s issue as a final statement [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/issues/26) Finally this was the [commit where I submitted most of my final work before editing.](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/f21844c13ca13b8d34c38d4e6c999f2478ec1b3a)
 
-## Presentation Template
+## Research Presentation
 [Click Here](reveal/index.html)
+
+## Academic Blog
+[Click Here](Blog)
